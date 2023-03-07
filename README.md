@@ -1,29 +1,20 @@
-# to-do_list
+# To-do list <img align="right" src="https://img.shields.io/static/v1?label=STATUS&message=Está %20em andamento &color=red&style=for-the-badge"/>
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+<h2>👨‍🏫 Créditos</h2>
+<p>Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<h2>💻 Tecnologias utilizadas</h2>
 
-## Customize configuration
+<div style="display: inline_block">
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+</div>
 
-## Project Setup
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
