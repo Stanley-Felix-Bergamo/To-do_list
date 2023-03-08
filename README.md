@@ -1,6 +1,12 @@
 # To-do list <img align="right" src="https://img.shields.io/static/v1?label=STATUS&message=Está %20em andamento &color=red&style=for-the-badge"/>
 
 
+<div align="center" >
+    <img width="725rem" src="https://servidor-estaticos-ten.vercel.app/to-do.png" alt="imagem">
+</div>
+
+> Para ver o projeto rodando, você pode acessar este [Link](https://to-do-list-mu-indol.vercel.app/).
+
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
 
